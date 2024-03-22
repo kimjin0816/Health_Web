@@ -29,19 +29,16 @@
 
 ## 시나리오및 화면 구성
 ### 로그인/회원가입
-![](README_image/로그인.png)
+![](README_image/로그인.png) ![](README_image/로그인화면.png)
 
 ### 명언 모음(Crwaling)
 ![](/README_image/크롤링화면.png)
 
-### Client와 Server 채팅창
-![](puppy_Termp/README_image/screen3.png)
+### 신체별 부위 운동 가이드
+![](/README_image/신체부위별운동.png)![](/README_image/API화면.png)
 
-### 주문하는 과정
-![](puppy_Termp/README_image/screen4.png)
+### 운동 루틴 작성
+![](/README_image/루틴작성.png)![](/README_image/운동루틴화면.png)
 
-### 재주문 및 주문내역 취소 과정
-#### 클라이언트측에서의 재주문 과정
-![](puppy_Termp/README_image/screen6.png)
-#### 서버측에서의 주문내역 수정
-![](puppy_Termp/README_image/screen5.png)
+### 당일 운동 수행능력 확인
+![](/README_image/운동수행확인.png)![](/README_image/IOT화면.png)
