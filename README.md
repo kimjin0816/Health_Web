@@ -18,15 +18,18 @@
  * 피드백을 통하여 수정
  * 프로그램 구동 후 테스트를 하며 오류를 수정
 
-## 알고리즘
-![](puppy_Termp/README_image/algorizm.png)
+## 개발 환경
+![](README_image/개발환경.png)
+
+## 프로그램 통합 구성도
+![](README_image/통합구성도.png)
 
 ## 실행영상
 ![](GIFMaker_me.gif)
 
-## 화면 구성및 흐름
-### 시작 화면
-![](puppy_Termp/README_image/screen1.png)
+## 시나리오및 화면 구성
+### 로그인/회원가입
+![](/README_image/)
 
 ### 메인창
 ![](puppy_Termp/README_image/screen.png)
