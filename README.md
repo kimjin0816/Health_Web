@@ -29,10 +29,10 @@
 
 ## 시나리오및 화면 구성
 ### 로그인/회원가입
-![](/README_image/)
+![](README_image/로그인.png)
 
-### 메인창
-![](puppy_Termp/README_image/screen.png)
+### 명언 모음(Crwaling)
+![](/README_image/크롤링화면.png)
 
 ### Client와 Server 채팅창
 ![](puppy_Termp/README_image/screen3.png)
