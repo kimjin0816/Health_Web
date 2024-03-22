@@ -22,7 +22,7 @@
 ![](puppy_Termp/README_image/algorizm.png)
 
 ## 실행영상
-![](GIFtMaker_me.gif)
+![](../GIFtMaker_me.gif)
 
 ## 화면 구성및 흐름
 ### 시작 화면
